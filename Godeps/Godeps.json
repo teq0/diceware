@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/teq0/diceware",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/sethvargo/go-diceware/diceware",
+			"Rev": "95bd91066dd1c58c436e9c898fbcaaa1c5b7df0d"
+		}
+	]
+}
